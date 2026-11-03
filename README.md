@@ -11,10 +11,7 @@ A powerful GUI-based Windows 11 child account management tool that helps parents
 ---
 
 ## Screenshot
-
-> Replace the image below with your actual screenshot.
-
-![Windows Kid Account Manager]([images/screenshot.png](https://i.imgur.com/sX8v1IT.png))
+![Windows Kid Account Manager](https://i.imgur.com/sX8v1IT.png "Kid Account Manager - Main App Window")
 
 ---
 
